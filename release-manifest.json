@@ -1,10 +1,20 @@
 {
   "releases": {
     "versions": {
-       "latest": {
-         "win": "21.11.0031",
-         "mac": "21.10.1021"
-       }
+      "latest": {
+        "platforms": {
+          "win": {
+            "version": "21.11.0031",
+            "percent": 10,
+            "type": "a"
+          },
+          "mac": {
+            "version": "21.10.1021",
+            "percent": 10,
+            "type": "a"
+          }
+        }
+      }
     }
   }
 }
