@@ -5,12 +5,12 @@
         "platforms": {
           "win": {
             "version": "21.11.0031",
-            "percent": 10,
+            "segment": 10,
             "type": "a"
           },
           "mac": {
             "version": "21.10.1021",
-            "percent": 10,
+            "segment": 10,
             "type": "a"
           }
         }
