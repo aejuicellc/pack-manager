@@ -1,1 +1,1 @@
-{"releases":{"versions":{"update":{"platforms":{"win":{"segment":10,"type":"a","version":"22.01.0013"},"mac":{"segment":50,"type":"a","version":"21.12.1011"}}},"latest":{"platforms":{"mac":{"version":"22.01.1011"},"win":{"version":"21.12.0103"}}}}}}
+{"releases":{"versions":{"update":{"platforms":{"win":{"segment":10,"type":"a","version":"22.01.0017"},"mac":{"segment":50,"type":"a","version":"21.12.1011"}}},"latest":{"platforms":{"mac":{"version":"22.01.1011"},"win":{"version":"21.12.0103"}}}}}}
