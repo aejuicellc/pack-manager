@@ -1,1 +1,1 @@
-{"releases":{"versions":{"update":{"platforms":{"win":{"segment":100,"type":"a","version":"25.02.1005"},"mac":{"segment":66,"type":"a","version":"25.02.0009"}}},"latest":{"platforms":{"mac":{"version":"25.02.0009"},"win":{"version":"25.02.1005"}}}}}}
+{"releases":{"versions":{"update":{"platforms":{"win":{"segment":100,"type":"a","version":"25.02.1005"},"mac":{"segment":100,"type":"a","version":"25.02.0009"}}},"latest":{"platforms":{"mac":{"version":"25.02.0009"},"win":{"version":"25.02.1005"}}}}}}
